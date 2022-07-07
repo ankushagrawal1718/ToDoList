@@ -1,0 +1,8 @@
+this is basic working to do list. but there are lots of things which can be updated
+1. add not to do list 
+2. UI of page
+3. remainder alarm 
+4. important, urgent quardent rule
+
+There are always a possibility of better. so if u find anything which should be updated then feel free to do it
+
