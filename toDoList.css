@@ -1,0 +1,46 @@
+#toDoList{
+    margin: 40px auto;
+    padding: 20px;
+    background-color: bisque;
+    border: 2px solid black;
+    width: 50%;
+    height: auto;
+    border-radius: 20px;
+}
+
+#heading{
+    border: 2px solid black;
+    border-radius: 15px;
+    text-align: center;
+    
+}
+#inputTask{
+    width: 70%;
+    margin-right: 5%;
+    border: 2px solid black;
+    border-radius: 15px;
+    height: 2rem;
+    padding-left: 5% ;
+}
+#error{
+    color: red;
+}
+#addBtn{
+    height: 2rem;
+    border: 2px solid black;
+    border-radius: 5px; 
+    text-align: right; 
+    margin-right: 5px;  
+}
+#addBtn:hover{
+    background-color: rgb(220, 214, 214);
+}
+
+#heading2{
+    /* border: 2px solid red; */
+}
+
+.remove{
+    margin-left: 50px;
+
+}
